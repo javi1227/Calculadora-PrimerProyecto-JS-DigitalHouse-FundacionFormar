@@ -1,0 +1,8 @@
+// A) ¿qué hubiese sucedido si, en vez de generar un archivo por cada operación matemática, hubiésemos programado todo en un mismo archivo? //
+  - se podria exportar varios archivos, pero de esta forma empezamos con lo basico
+
+// B) ¿ Por qué el mejor camino es generar distintos archivos y luego requerirlos en uno solo? //
+- para que sea todo mas prolijo y entendible
+
+// C) ¿Será esta metodología de trabajo una constante de aquí en adelante?
+ - Si
